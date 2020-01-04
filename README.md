@@ -28,6 +28,10 @@ And run again for 6000 and 15000 samples
 | 6000                  | 15000                  |
 |-----------------------|------------------------|
 | ![Exp_6000](images/6000.png) | ![Exp_15000](images/15000.png)|
+
+
+  - Perceptron Algorithm  >> "apply_Perceptron_algorithm_final_submission.ipynb"
+
   
   
  
